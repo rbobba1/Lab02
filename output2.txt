@@ -1,0 +1,8 @@
+﻿brown-fox: 1
+ dog-jumps: 1
+ fox-jumps: 1 
+jumps-over: 1
+ lazy-dog: 1 
+over-the: 1 
+quick-brown: 1 
+the-lazy: 1
